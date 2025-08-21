@@ -1,0 +1,331 @@
+Administration, Psychology, Mechanical Engineering, Nursing, and Marketing. Below you’ll find a global, actionable pack for each major: a clear Grade 7–12 roadmap (year-by-year goals), the best courses & MOOCs, competitions and clubs, high-value blogs/YouTube/podcasts, global communities & Telegram channels (where relevant), ideas for projects/portfolios, and top universities to aim for. I’ve cited reliable sources for the biggest claims (courses, competitions, top schools). If you want, I can now convert each major into a one-page printable PDF / Anki flashcards / checklist for students — tell me which format first and I’ll generate.
+
+1) Computer Science (CS)
+Overview: CS is heavy on math, algorithms, and project experience. Start early — programming + algorithmic problem solving + meaningful projects = strong applications.
+
+Grade 7–12 roadmap (quick):
+
+Grade 7–8: Learn logic & basics — Scratch, block coding, basic Python. Start a small project (game, website).
+
+Grade 9 (freshman): Take Algebra I/II; start Python course (freeCodeCamp / Codecademy). Join a coding club or robotics. Begin GitHub.
+
+Grade 10 (sophomore): Learn data structures & algorithms basics; compete in online contests (Codeforces practice, USACO bronze prep). Build 2–3 projects (web app, simple ML model).
+
+Grade 11 (junior): AP Calculus & AP Computer Science (if available). Do USACO/IOI training; contribute to open-source; internships if possible.
+
+Grade 12 (senior): Polish portfolio, apply to summer programs (MIT Splash, research internships), take advanced MOOCs (MIT OCW), prepare essays highlighting projects.
+
+High-impact activities & competitions
+
+USACO (algorithmic programming for high-schoolers) — training + contests. 
+usaco.org
++1
+usaco.org
++1
+
+Kaggle (beginner-friendly ML/data competitions — Titanic, Digit Recognizer). 
+Kaggle
++1
+Kaggle
++1
+
+Programming contests: Codeforces, AtCoder, Google Code-in (older), local Olympiads. (Practice on contest sites and GitHub.)
+
+Courses / MOOCs
+
+MIT OpenCourseWare — Intro to Computer Science & Programming (6.0001) and many CS courses. 
+MIT OpenCourseWare
++1
+MIT OpenCourseWare
++1
+
+freeCodeCamp — full, free curriculum to learn web dev and Python. 
+FreeCodeCamp
++1
+FreeCodeCamp
++1
+
+Kaggle Learn for data science beginner tracks. 
+Kaggle
++1
+Kaggle
++1
+
+Blogs / YouTube / Podcasts
+
+freeCodeCamp blog, Hacker Noon, CS Dojo (YouTube), Sentdex, Two Minute Papers (ML), Data Skeptic (podcast).
+
+Communities & Telegram (global)
+
+Telegram groups for programming, ML, data science (search “Computer Science and Programming”, “Data Science & Machine Learning” channels) — active communities for tutorials and job posts. (Examples exist; check channel member counts & moderation). 
+FreeCodeCamp
+Kaggle
+
+Reddit: r/learnprogramming, r/csmajors, r/MachineLearning.
+
+Project & portfolio ideas
+
+Web app with backend (login, DB), GitHub-hosted portfolio, Kaggle notebook showing data pipeline, small mobile app or Raspberry Pi project.
+
+Top universities (CS) — global picks (QS subject ranking). Aim for these if you want top CS: MIT, Stanford, Carnegie Mellon, University of California (Berkeley), University of Oxford. 
+Top Universities
+QSchina
+
+2) Business Administration
+Overview: Mix of math, communication, case analysis, leadership and entrepreneurship experience.
+
+Grade 7–12 roadmap:
+
+Grade 7–8: Start reading basic business books (e.g., basics of entrepreneurship). Run small sales/online store projects.
+
+Grade 9: Take math (algebra), basic economics if available. Join school business or entrepreneurship clubs.
+
+Grade 10: Start DECA or Junior Achievement; learn spreadsheet basics, presentation skills.
+
+Grade 11: Compete in DECA state/national events; run a small startup or social enterprise; internships/mentor with local business.
+
+Grade 12: Build portfolio of business plans, internships, leadership roles; take business MOOCs and prep for interviews.
+
+High-impact activities & competitions
+
+DECA — national & international competitive events in marketing, finance, entrepreneurship. Great for resumes + scholarships. 
+deca.org
++1
+deca.org
++1
+
+Junior Achievement (JA) — entrepreneurship & financial literacy programs.
+
+Courses / MOOCs
+
+Google Digital Garage — Fundamentals of digital marketing & digital skills. 
+Grow Google
+skillshop.exceedlms.com
+
+Coursera / Wharton / Yale — business fundamentals, finance basics.
+
+Blogs / YouTube / Podcasts
+
+Harvard Business Review, Forbes, Stanford eCorner (podcasts), How I Built This (NPR).
+
+Communities & Telegram
+
+Telegram groups for startups, small business growth, fintech — search for regional startup communities; entrepreneur channels; "Business" channels on Telegram for case practice and templates.
+
+Project ideas & portfolio
+
+Business plan competitions, manage a pop-up store, run social media campaigns for a local small business, prepare case-study writeups.
+
+Top universities (Business/Management) — global
+
+Top programs in Business & Management: Harvard, MIT (Sloan), Stanford, London Business School / INSEAD (for management/business) (QS & TopUniversities listings). 
+Top Universities
++1
+Top Universities
++1
+
+3) Psychology
+Overview: Science-heavy social science. Strong reading/writing, statistics, and volunteer or research exposure helps.
+
+Grade 7–12 roadmap:
+
+Grade 7–8: Explore intro psychology books, watch accessible lectures.
+
+Grade 9: Take biology & basic statistics; join debate/peer-counseling or volunteer groups.
+
+Grade 10: AP Psychology (if available); read research summaries; start a small observational project or survey (ethics-approved if needed).
+
+Grade 11: Apply to psychology summer schools / online courses; participate in psychology competitions (IPsyO, APA TOPSS).
+
+Grade 12: Submit to essay competitions (APA TOPSS), create a research poster, or do a project with a local university lab.
+
+High-impact activities & competitions
+
+APA TOPSS resources and student competitions for high school psychology. 
+Американская психологическая ассоциация
++1
+Американская психологическая ассоциация
++1
+
+International Psychology Olympiad (IPsyO) and other essay competitions. 
+ipsyo.org
+Lumiere Education
+
+Courses / MOOCs
+
+Yale / Coursera — Introduction to Psychology (Paul Bloom) — strong, beginner-friendly course. 
+Coursera
+oyc.yale.edu
+
+Blogs / YouTube / Podcasts
+
+Simply Psychology, Verywell Mind, Psychology Today; YouTube: CrashCourse Psychology; Podcasts: Hidden Brain, Speaking of Psychology (APA).
+
+Communities & Telegram
+
+Psychology student groups on Reddit (r/psychology, r/psychologystudents). Some Telegram groups exist for psychology students and research summaries — search for moderated channels. (Use reputable groups and avoid medical advice poaching.)
+
+Project ideas & portfolio
+
+Conduct a small survey-based project with IRB-lite consent, literature review, poster, and submit to local fairs; volunteer in counseling/peer support.
+
+Top universities (Psychology)
+
+Top Psychology programs: Harvard, Stanford, University of Oxford, University of Cambridge, UCL (QS / THE subject rankings). 
+Top Universities
+Times Higher Education (THE)
+
+4) Mechanical Engineering
+Overview: Math + physics + hands-on design building. Competitions and maker projects are crucial.
+
+Grade 7–12 roadmap:
+
+Grade 7–8: Build with kits (LEGO Mindstorms, basic electronics), learn geometry and basic physics concepts.
+
+Grade 9: Algebra, geometry, physics; join a robotics/maker club; start CAD basics (Tinkercad).
+
+Grade 10: Learn more physics, start learning Fusion 360 or FreeCAD; join FIRST/FLL/VEX.
+
+Grade 11: Enter engineering design competitions, take AP Physics and Calculus; build a portfolio of CAD models and prototypes.
+
+Grade 12: Intern at a local engineering shop or fab lab; finalize project for university applications.
+
+High-impact activities & competitions
+
+FIRST Robotics, VEX Robotics, engineering fairs and Maker Faires — excellent for hands-on design experience. (Search regional FIRST / VEX chapters.)
+
+ASME student competitions and design challenges.
+
+Courses / MOOCs & resources
+
+MIT OCW engineering courses and mechanical engineering subject pages. 
+MIT OpenCourseWare
++1
+MIT OpenCourseWare
++1
+
+CAD tutorials: Fusion 360 Learning, GrabCAD library.
+
+Blogs / YouTube / Podcasts
+
+Engineering Explained, Practical Engineering, Make: magazine, Hackaday.
+
+Communities & Telegram
+
+Telegram maker/engineering channels; CAD and 3D-printing groups. Also join forums like GrabCAD and Reddit r/engineeringstudents.
+
+Project & portfolio ideas
+
+Build a small mechanical device (robot arm, drone frame), document with CAD files, photos, BOM, prototype video; show engineering process (iterate, test).
+
+Top universities (Mechanical Engineering)
+
+Top ME programs: MIT, Stanford, Cambridge, ETH Zurich, Caltech (QS subject ranking). 
+Top Universities
+QSchina
+
+5) Nursing
+Overview: Nursing requires science knowledge, care experience, certifications, and empathy. For undergraduate nursing, in many countries clinical placements and volunteer experience are valued.
+
+Grade 7–12 roadmap:
+
+Grade 7–8: Read about health careers, basic first aid; volunteer in local community service.
+
+Grade 9: Take biology, start first aid/CPR certification; join health clubs.
+
+Grade 10: Volunteer in hospitals/clinics (non-clinical roles), take chemistry & human biology.
+
+Grade 11: Shadow nurses, take advanced biology/AP Bio if available; complete community health projects.
+
+Grade 12: Apply to nursing programs, pass any entrance exams, gather strong references from clinical supervisors.
+
+High-impact activities & competitions
+
+Volunteer at hospitals/Red Cross; local health science competitions and science fairs. Look for youth health ambassador programs.
+
+Courses / MOOCs & certifications
+
+First Aid/CPR certifications (Red Cross) — essential.
+
+Free health/nursing content: Khan Academy Health & Medicine; university open courses for anatomy & physiology.
+
+Online nursing course lists & QS rankings for programs (to pick universities). 
+Top Universities
+online.yale.edu
+
+Blogs / YouTube / Podcasts
+
+RegisteredNurseRN (YouTube), Nurse.org, American Nurses Association site, Student Nurse Journey blogs.
+
+Communities & Telegram
+
+Nursing student groups on Facebook, Reddit (r/nursingstudents), and region-specific Telegram groups for nursing students & shifts — verify moderators before using.
+
+Project ideas & portfolio
+
+Public health campaigns, volunteer logs, certifications, short research or case study on a community health need.
+
+Top universities (Nursing)
+
+Leading programs (QS subject rankings): King’s College London, University of Pennsylvania, University of Toronto, Johns Hopkins (QS / THE nursing ranks). 
+Top Universities
+QSchina
+
+6) Marketing
+Overview: Marketing is creative + analytical. Build writing, design, analytics, and campaign skills.
+
+Grade 7–12 roadmap:
+
+Grade 7–8: Start with storytelling & basic graphic design (Canva); learn how ads work.
+
+Grade 9: Take business/econ electives; start a social media project or blog; learn basic SEO.
+
+Grade 10: Take Google Analytics and Google Ads fundamentals; do small social campaigns for a school club or local business.
+
+Grade 11: Get HubSpot/Google certifications, compete in DECA marketing events, run measurable campaigns.
+
+Grade 12: Build a portfolio (campaign case studies, metrics — impressions, CTR, conversions), internships.
+
+High-impact activities & competitions
+
+DECA (marketing events) — real-case experience & competition. 
+deca.org
+indigoresearch.org
+
+Courses / MOOCs & certifications
+
+Google Digital Garage (Fundamentals of Digital Marketing) — free, globally recognized. 
+skillshop.exceedlms.com
+
+HubSpot Academy (Inbound Marketing, Content Marketing) — free certifications. 
+academy.hubspot.com
++1
+academy.hubspot.com
++1
+
+Blogs / YouTube / Podcasts
+
+HubSpot Blog, MarketingProfs, Neil Patel blog, GaryVee (YouTube/podcast), Social Media Examiner.
+
+Communities & Telegram
+
+Telegram groups for digital marketing, SEO, social media managers; global communities on LinkedIn and Slack (e.g., GrowthHackers). Use channels for templates, ad copy critique, and up-to-date tactic sharing.
+
+Project & portfolio ideas
+
+3 campaign case studies: one organic (content), one paid (Google/Facebook), and one analytics-driven optimization. Include data (before/after metrics) and creative assets.
+
+Top universities (Marketing / Business)
+
+Strong marketing programs and business schools: University of Pennsylvania (Wharton), Harvard, Stanford, University of Cambridge (US News & QS subject pages for marketing/business). 
+US News
+Top Universities
+
+Quick global communities & how to choose them safely
+Telegram: great for fast tips, local meetups, and channels sharing free courses — always verify admins, avoid channels asking for money or personal documents. (Search Telegram for channel names above.) 
+FreeCodeCamp
+Kaggle
+
+Reddit, Discord, Stack Exchange: active Q&A and mentorship.
+
+Official orgs: DECA, USACO, APA, FIRST — these are reputable and excellent for competition experience.

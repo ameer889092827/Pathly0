@@ -1,0 +1,1376 @@
+Amazing — thanks for the push. Below is the **full mega-roadmap** you asked for: **every specialization** across the 12 majors we agreed on, with **detailed grade-by-grade (7 → 11)** learning steps, concrete **project templates**, **timelines**, **competitions**, **global & Kazakhstan** communities/channels, **blogs / YouTube / courses**, and **application tips** for each specialization. It’s plain text, searchable, and organized so you can copy/paste sections into notes or Anki.
+
+I concentrated on **actionable, specific steps** and realistic projects that a motivated student (grades 7–11) can do. If you want, I can now convert this into a single downloadable .txt file or split it into separate messages per major — but you asked for one big message, so here it is.
+
+---
+
+# MEGA ROADMAP (All 12 Majors — every specialization fully expanded)
+
+> Quick legend:
+>
+> * **Grade 7–11**: year-by-year milestones (what to learn & do).
+> * **Project**: a concrete project idea with deliverables you can show.
+> * **Timeline**: rough months/weeks to complete the project in one school year.
+> * **Global resources**: courses, blogs, YouTube channels, competitions.
+> * **Kazakhstan resources**: local hubs, Telegram channels, competitions, universities.
+> * **App tip**: what to put in applications / portfolios for admissions.
+
+---
+
+## MAJOR 1 — COMPUTER SCIENCE (CS)
+
+**Subspecializations:** Artificial Intelligence & ML, Data Science, Cybersecurity, Systems & Networking, Human-Computer Interaction (HCI), Theory & Algorithms, Robotics (CS-focused)
+
+---
+
+### 1. AI & MACHINE LEARNING (AI/ML)
+
+**Grade 7**
+
+* Learn block coding (Scratch) → transition to Python basics (variables, loops, functions).
+* Math essentials: fractions, percentages, simple probability, linear sequences.
+* Project: “Image classifier demo” — use Google Teachable Machine to build a classifier (cats/dogs) and write one-page explanation of how it works.
+* Timeline: 6–8 weeks (learn Python basics 4w + Teachable Machine project 2–4w).
+
+**Grade 8**
+
+* Python intermediate: functions, lists, dictionaries, file I/O.
+* Intro math: algebra, coordinate geometry. Learn basics of statistics (mean/median/mode).
+* Project: “Spam classifier” using simple keyword features (Python + scikit-learn). Produce a 2-page writeup and Jupyter notebook.
+* Start a GitHub and push notebooks.
+
+**Grade 9**
+
+* Libraries: NumPy, Pandas, Matplotlib; data cleaning and plotting.
+* Linear algebra intro: vectors, matrices basics (visual intuition). Probability: conditional probability, Bayes basics.
+* Project: “End-to-end ML pipeline” — collect a small dataset (school survey), clean it, build simple model (logistic regression), create a dashboard (streamlit/simple Flask).
+* Competitions: Kaggle (Titanic, beginner).
+* Timeline: 4–6 months (deepen coding and finish pipeline).
+
+**Grade 10**
+
+* ML fundamentals: supervised learning (regression/classification), model evaluation (precision/recall), cross-validation.
+* Tools: scikit-learn, TensorFlow/Keras basics; version control (git).
+* Project: “Image or sound classifier” — use transfer learning (MobileNet) to build classifier; deploy small web demo.
+* Start writing blog posts (Medium, Towards Data Science) explaining experiments.
+
+**Grade 11**
+
+* Deep learning: CNNs, RNNs basics, transformers intro (concepts).
+* Advanced math: linear algebra deeper (matrix ops), multivariable calculus intuition, probability distributions.
+* Project (capstone): original dataset or improved method — document with reproducible code, evaluation, and short video demo. Try to get mentorship from university / practitioner.
+* Competitions & research: Kaggle medallions; local/online research internships; optionally submit to student AI symposiums.
+* App tip: admissions want one or two polished projects with reproducible code, a clear problem statement, and demonstrated impact (accuracy improvement, real-world deployment, users).
+
+**Concrete Projects (templates)**
+
+* Teachable Machine demo (Grade 7) — deliverable: video + 1-page explanation.
+* Spam classifier (Grade 8) — notebook + README.
+* Small dashboard (Grade 9) — notebook + streamlit app + short blogpost.
+* Transfer-learning classifier (Grade 10) — GitHub + deployed demo link.
+* Capstone (Grade 11) — reproducible repo, blog paper, and short presentation video.
+
+**Global resources**
+
+* Courses: CS50 (Harvard), Andrew Ng’s ML (Coursera), fast.ai Practical Deep Learning for Coders.
+* Blogs/communities: Towards Data Science, PapersWithCode, r/MachineLearning, ArXiv (read titles & abstracts), Kaggle.
+* YouTube: 3Blue1Brown (linear algebra intuition), Sentdex (practical ML), Siraj Raval (projects).
+* Competitions: Kaggle, DrivenData.
+
+**Kazakhstan**
+
+* Hubs: Astana Hub datathons/events, Nazarbayev University summer programs (AI/ML modules).
+* Telegram channels: @ai\_kazakhstan, @datasciencekz (community-run; search local names).
+* Local competitions/hackathons: Astana Hub Data/AI hackathons, regional university-hosted competitions.
+* Universities to approach for mentorship: Nazarbayev University (NU), KBTU, Al-Farabi KazNU.
+
+**Application tip**
+
+* Focus on depth: one capstone project is worth more than many shallow demos. Metrics, writeups, and a short video demo help admissions evaluate impact.
+
+---
+
+### 2. DATA SCIENCE
+
+**Grade 7**
+
+* Learn Excel/Google Sheets: formulas, pivot tables, charts.
+* Project: analyze a class survey (favorite books/sports) and present a poster with charts.
+* Timeline: 4–6 weeks.
+
+**Grade 8**
+
+* Python + Pandas basics. Data cleaning tasks (missing values, type conversions).
+* Start small EDA projects and keep a “data notebook” (Jupyter).
+* Join school math club or data club.
+
+**Grade 9**
+
+* SQL basics: SELECT, WHERE, JOIN; practice on sample databases (SQLite).
+* Statistics: descriptive stats, confidence intervals basics.
+* Project: “Local dataset analysis” — scrape simple public data (e.g., weather, sports results), clean it, and present insights using charts & a short written analysis.
+
+**Grade 10**
+
+* Machine learning basics: regression, classification, clustering. Learn evaluation metrics and model selection.
+* Visualization: Seaborn, Plotly; storytelling with data.
+* Project: “Business-use case” — create a dashboard analyzing fake store sales; propose 3 data-driven recommendations and measure expected impact.
+
+**Grade 11**
+
+* Advanced modeling: ensemble methods, basic time-series analysis, feature engineering.
+* Data engineering basics: building data pipelines (ETL).
+* Project: capstone — analyze an important local dataset (e.g., education, environmental, traffic) and propose evidence-based policy/action. Publish as a blog + GitHub repo.
+
+**Concrete Projects**
+
+* Class survey analysis (Grade 7).
+* Weather trends analysis (Grade 9).
+* Sales dashboard with recommendations (Grade 10) — deliverable: dashboard + slide deck.
+* Policy/impact project (Grade 11) — repo + blog + outreach to local NGO.
+
+**Global resources**
+
+* Kaggle, DataCamp (paid), Coursera Data Specializations, “Python for Data Analysis” (O’Reilly).
+* Blogs: Towards Data Science, FiveThirtyEight, FlowingData, DataTau, r/datascience.
+* Competitions: Kaggle, local hackathons, Datathon events.
+
+**Kazakhstan**
+
+* Astana Hub data events, NU data science summer modules, Telegram: @datasciencekz, local university data competitions.
+* Local employers (internship potential): BI teams at banks/telecoms, Astana Hub startups.
+
+**Application tip**
+
+* Demonstrate both technical ability (code + model) and ability to communicate insights with visuals and a short non-technical summary.
+
+---
+
+### 3. CYBERSECURITY
+
+**Grade 7**
+
+* Learn computer fundamentals: OS basics, how the web works, simple online safety rules.
+* Play beginner cybersecurity games (cryptograms, logic puzzles).
+* Project: write a one-page “How the internet works” and do phishing-simulation awareness with class.
+
+**Grade 8**
+
+* Basic networking concepts: IP, DNS, HTTP. Learn simple scripting with Python for automation.
+* Practice safe CTF-like puzzles on PicoCTF beginner challenges.
+
+**Grade 9**
+
+* Web vulnerabilities basics: SQL injection, XSS — practice in a safe, legal environment (OWASP Juice Shop in a sandbox).
+* Learn Linux fundamentals (CLI).
+* Project: host a local intentionally vulnerable app (in sandbox) and create a report showing discovered vulnerabilities & mitigation.
+
+**Grade 10**
+
+* Reverse engineering basics, binary exploitation intro, cryptography fundamentals.
+* Participate in junior-level CTFs (CTFtime lists events).
+* Project: create a small CTF challenge for classmates (one web and one crypto challenge) + write a solution guide.
+
+**Grade 11**
+
+* Deepen specialization (network sec, pentesting, cryptography or DFIR). Get mentorship from a professional or university lab.
+* Obtain beginner certs if possible (e.g., Cybersecurity Essentials courses or CompTIA basics).
+* Project (capstone): full pentest report of a sandboxed web app with remediation plan; present to a local school/club.
+
+**Global resources**
+
+* PicoCTF, HackTheBox (starting labs), TryHackMe (beginner to advanced).
+* Blogs: Krebs on Security, HackerOne reports, OWASP, r/netsec.
+* YouTube: LiveOverflow, HackerSploit.
+
+**Kazakhstan**
+
+* Local events: Kazakhstan Cybersecurity CTFs, university workshops.
+* Telegram: @cybersecuritykz, @infoseckz (community-run channels).
+* Organizations: cybersecurity groups in Astana Hub, university cyber clubs (NU/KBTU).
+
+**Application tip**
+
+* For admissions, show a progression from safe learning to real-world responsible disclosures or documented CTF achievements. Ethical behavior is essential — never perform unauthorized testing.
+
+---
+
+### 4. SYSTEMS & NETWORKING
+
+**Grade 7**
+
+* Learn how PCs work; assemble basic PC if feasible under supervision.
+* Raspberry Pi introduction: set up Raspbian, SSH into Pi.
+
+**Grade 8**
+
+* Linux commands & shell scripting basics.
+* Basic home networking: router config, DHCP, IP addressing.
+* Project: set up a Pi as a home web server (static site) and document steps.
+
+**Grade 9**
+
+* Learn TCP/IP model, DNS, routing basics. Start learning basic network troubleshooting.
+* Project: build a home monitoring system (Pi + camera) to stream locally; secure it with basic auth.
+
+**Grade 10**
+
+* Server admin basics: hosting a site, SSH keys, backups, system monitoring (Prometheus basics).
+* Introduction to virtualization (VirtualBox) and containers (Docker).
+* Project: deploy a small service (e.g., simple REST API) on a VPS; implement basic security best practices.
+
+**Grade 11**
+
+* Advanced: Kubernetes basics, cloud fundamentals (AWS/GCP/Azure free tiers), learn CCNA-level topics (routing/switching fundamentals).
+* Project (capstone): design & implement a multi-service system (web + DB + monitoring), document architecture and security, cost, and scaling plan.
+
+**Global resources**
+
+* Cisco Networking Academy, Linux Foundation courses (edX), DigitalOcean tutorials.
+* Communities: r/networking, StackOverflow, ServerFault.
+
+**Kazakhstan**
+
+* Local uni labs: NU/KBTU IT labs, Astana Hub workshops.
+* Telegram: @linuxkz, @devopskz for local meetups.
+
+**Application tip**
+
+* Demonstrate operational maturity: documentation (runbooks), backups, monitoring, and an explanation of tradeoffs (security vs convenience).
+
+---
+
+### 5. HUMAN–COMPUTER INTERACTION (HCI)
+
+**Grade 7**
+
+* Visual design basics: color theory, type, simple sketches, user empathy.
+* Project: redesign a simple school webpage and conduct 3 user tests with classmates.
+
+**Grade 8**
+
+* Learn wireframing and Figma basics. Study basic cognitive load & usability heuristics.
+* Project: build clickable prototype of a study planner app and run usability tests.
+
+**Grade 9**
+
+* Learn HTML/CSS basics to convert a prototype into a live mock site.
+* Study user research methods (surveys/interviews) and basic stats for analyzing results.
+* Project: iterate on prototype based on tests; publish a case study.
+
+**Grade 10**
+
+* Frontend frameworks: React basics for interactive prototypes.
+* Learn accessibility (a11y) principles, inclusive design practices.
+* Project: build a working MVP of an accessibility-focused app (e.g., reading aid), conduct accessibility audit.
+
+**Grade 11**
+
+* Conduct longitudinal UX research (measure engagement over time). Publish portfolio with 2–3 case studies showing process (problem → research → prototype → testing → results).
+* Project (capstone): lead a UX project for a local NGO or school product; measure impact and iterate based on metrics.
+
+**Global resources**
+
+* Interaction Design Foundation, UX Collective, Nielsen Norman Group articles, Figma community templates.
+* Podcasts/YouTube: NNGroup, Google Design.
+
+**Kazakhstan**
+
+* UX meetups in Almaty / Astana, Telegram: @ux\_kz, local designers at Astana Hub and NU design labs.
+
+**Application tip**
+
+* HCI portfolios need process documentation: sketches, user research notes, wireframes, prototypes, test results and iterations — admissions value the thinking and process as much as visuals.
+
+---
+
+### 6. THEORY & ALGORITHMS
+
+**Grade 7**
+
+* Problem solving: logical puzzles, beginner competitive problem sets (AMC8, local puzzles).
+* Learn structured thinking: write clear problem solutions.
+
+**Grade 8**
+
+* Data structures: arrays, lists, stacks/queues; basic algorithmic complexity (big-O intuition).
+* Practice simple problems (Codeforces gym beginner).
+
+**Grade 9**
+
+* Graphs, BFS/DFS, greedy, sorting algorithms; begin USACO Bronze problems.
+* Project: create a set of solved problems with detailed solutions on a blog.
+
+**Grade 10**
+
+* DP, advanced graph algorithms (shortest paths variants), complexity theory basics.
+* Competitions: USACO Silver/Gold preparation, Codeforces regular contests.
+* Project: contribute to an algorithmic blog; teach local workshops.
+
+**Grade 11**
+
+* Olympiad-level problems; participate in national IOI pipeline if available.
+* Project (capstone): propose a small theoretical investigation or long-form writeup explaining an algorithmic trick or new solution approach; submit to school math/CS journal.
+
+**Global resources**
+
+* USACO training pages, CSES Problem Set, Codeforces, AtCoder; books: CLRS (intro sections), “Competitive Programming” by Halim for practice.
+* Communities: r/competitiveprogramming, TopCoder.
+
+**Kazakhstan**
+
+* National Informatics Olympiad pipeline, KBTU / NU informatics clubs, Telegram: @informatics\_kz.
+
+**Application tip**
+
+* Olympiad medals and documented contest performance are highly regarded for top CS/theory programs.
+
+---
+
+### 7. ROBOTICS (CS-FOCUSED)
+
+**Grade 7**
+
+* LEGO Mindstorms or micro\:bit robotics kits, learn basic sensors & motors.
+* Project: simple line follower.
+
+**Grade 8**
+
+* Learn Arduino basics; integrate simple sensors (distance/IR).
+* Project: obstacle-avoiding robot with PID-lite.
+
+**Grade 9**
+
+* Vision basics: connect a Raspberry Pi camera and do simple color-tracking.
+* Competition: FLL (suitable age), local robotics contests.
+
+**Grade 10**
+
+* SLAM basics (conceptual), sensor fusion: IMU + wheel encoders.
+* Project: build a small robot that maps a room (simplified SLAM with visual odometry).
+
+**Grade 11**
+
+* Autonomy & AI integration: perception + planning + control; lead a robotics team in VEX / FRC / Robocup junior.
+* Project (capstone): autonomous robot that completes a non-trivial task with a clear evaluation (e.g., pick-and-place or maze-solving) + technical documentation.
+
+**Global resources**
+
+* ROS tutorials (Robot Operating System), OpenCV, ROS-Industrial, Robocup resources.
+
+**Kazakhstan**
+
+* FIRST Kazakhstan, VEX Kazakhstan, Robocon national events; Telgrams: @roboticskz, NU/KBTU robotics labs.
+
+**Application tip**
+
+* Robotics applicants should show integration: software, electronics, mechanics — a team leadership role plus a robust technical write-up is excellent.
+
+---
+
+## MAJOR 2 — ELECTRICAL & ELECTRONIC ENGINEERING (EE)
+
+**Subspecializations:** Communications & Signal Processing, Embedded Systems & IoT, Power & Energy, Microelectronics & VLSI, Control Systems & Automation, Robotics Hardware (EE-focused)
+
+*(We produced a detailed EE section earlier; here are extra project templates, competitions, channels and more precise steps for each subspecialization.)*
+
+---
+
+### 1. COMMUNICATIONS & SIGNAL PROCESSING
+
+**Grade 7**
+
+* Basics: analog waves, simple circuit kits.
+* Project: build a crystal radio; write a 2-page explanation.
+
+**Grade 8**
+
+* Math: trigonometry and basic calculus intuition.
+* Project: record audio, use Audacity to compute FFT and visualize frequency peaks.
+
+**Grade 9**
+
+* DSP intro (sampling, Nyquist), simple FIR/IIR filters using Python and SciPy.
+* Project: implement audio denoising using simple filters (not deep learning).
+
+**Grade 10**
+
+* Modulation/demodulation basics; software-defined radio intro (SDR — e.g., RTL-SDR).
+* Project: use RTL-SDR to listen to an FM broadcast and visualize the spectrum.
+
+**Grade 11**
+
+* FPGA-based filter implementation or a real-time audio effects pedal (FPGA or microcontroller with DMA).
+* Project deliverable: schematic, PCB file (KiCad), firmware, demo video, measurement report.
+
+**Competitions/Communities**
+
+* IEEE Signal Processing Society student activities, SDR communities (RTL-SDR forum), EEVblog.
+* Kazakhstan: university EE clubs, Astana Hub electronics meetups, Telegram: @electronics\_kz.
+
+**Application tip**
+
+* Show measurement data (oscilloscope screenshots), PCB files, and understanding of both theory and measurement techniques.
+
+---
+
+### 2. EMBEDDED SYSTEMS & IOT
+
+**Grade 7**
+
+* Micro\:bit/Arduino basics + sensors. Project: a nightlight that adjusts brightness.
+
+**Grade 8**
+
+* ESP8266/ESP32 Wi-Fi microcontrollers and MQTT basics. Project: remote sensor + data log to cloud.
+
+**Grade 9**
+
+* Power management & low-power modes, battery selection. Project: solar-powered sensor with sleep cycles.
+
+**Grade 10**
+
+* Real-time systems basic, RTOS intro (FreeRTOS). Project: irrigation controller with scheduling and remote telemetry.
+
+**Grade 11**
+
+* Custom PCB design (KiCad), bootloader, OTA updates pipeline. Project: design & fabricate a wearable sensor, cloud dashboard + mobile notif.
+
+**Global resources**
+
+* Adafruit Learning System, Hackster.io, Element14.
+
+**Kazakhstan**
+
+* Astana Hub IoT challenges, KBTU/NU IoT labs, Telegram: @IOTkz.
+
+**App tip**
+
+* End-to-end projects (hardware + software + cloud + UX) look excellent. Include BOM, cost, and production plan.
+
+---
+
+### 3. POWER & ENERGY
+
+**Grade 7–9**
+
+* Core physics: energy, power, circuits. Projects: solar charger, simple wind turbine model.
+
+**Grade 10**
+
+* Power electronics basics: rectifiers, DC-DC converters. Project: build a buck converter and demonstrate efficiency measurements.
+
+**Grade 11**
+
+* Microgrid or smart-meter prototype (Raspberry Pi + sensors + data collector). Present a cost/benefit analysis and environmental impact study.
+
+**Competitions**
+
+* Student energy competitions, local science fairs, green tech hackathons (Astana Hub).
+
+**Kazakhstan**
+
+* Energy companies internships (state/local utilities), @energy\_kz Telegram.
+
+**App tip**
+
+* Admissions value practical awareness of energy challenges; include environmental benefit calculations.
+
+---
+
+### 4. MICROELECTRONICS & VLSI
+
+**7–9**
+
+* Logic gates, transistor circuits, small breadboard digital systems. Projects: 4-bit adder.
+
+**10**
+
+* HDL basics (Verilog): simulate adder/counter. Use EDA Playground for practice.
+
+**11**
+
+* Map design onto low-cost FPGA; show timing reports. Project: small CPU or peripheral controller on FPGA with UART.
+
+**Competitions**
+
+* International microelectronics student design contests (university-level), regional electronics contests.
+
+**Resources**
+
+* Xilinx/Intel documentation, Open-source HDL tutorials.
+
+**App tip**
+
+* Hardware RTL + FPGA implementation is rare and impressive for high school applicants.
+
+---
+
+### 5. CONTROL SYSTEMS & AUTOMATION
+
+**7–9**
+
+* Feedback concepts, mechanical builds: thermostat, line follower.
+
+**10**
+
+* PID tuning and discrete control implementation. Project: self-balancing robot.
+
+**11**
+
+* Advanced control (state-space intro), demo an MPC-like simple controller on a small plant (temperature or inverted pendulum simulation).
+
+**Communities**
+
+* IEEE Control Systems, Hackaday control projects.
+
+**App tip**
+
+* Show measurement results, tuning process, and scientific method (hypothesis → test → iterate).
+
+---
+
+### 6. ROBOTICS HARDWARE (EE)
+
+**7–9**
+
+* Motors, drivers, sensors. Project: wheeled robot with remote control.
+
+**10**
+
+* Power electronics for robotics: motor drivers and battery management. Project: add autonomous behaviors and sensor fusion.
+
+**11**
+
+* Mechatronic integration: mechanical design, embedded control, and higher-level planning.
+
+**Competitions**
+
+* FIRST, VEX, Robocon (Kazakhstan).
+
+**App tip**
+
+* Emphasize multi-disciplinary leadership and documentation.
+
+---
+
+## MAJOR 3 — MECHANICAL ENGINEERING (ME)
+
+**Subspecializations:** Design & Manufacturing, Robotics/Mechatronics (ME side), Aerospace, Thermal & Fluids, Materials & Additive Manufacturing
+
+---
+
+### 1. DESIGN & MANUFACTURING
+
+**Grade 7**
+
+* Sketching and measurement basics; shop safety. Project: build a small wooden bridge and test load.
+
+**Grade 8**
+
+* TinkerCAD → Fusion 360 basics. Project: design and 3D print gear set.
+
+**Grade 9**
+
+* Understand manufacturing processes: injection molding, CNC. Project: design a small consumer product (phone stand), make prototype via 3D printing.
+
+**Grade 10**
+
+* Tolerance, GD\&T basics, cost estimating, BOM. Project: produce multiple versions with cost analysis for manufacturability.
+
+**Grade 11**
+
+* Complete product design to production prototype: include CAD files, manufacturing drawings, and a simple manufacturing plan.
+
+**Competitions**
+
+* Local maker challenges, national prototyping contests (Astana Hub).
+
+**Kazakhstan**
+
+* Maker spaces in Almaty; NU/KBTU prototyping facilities.
+
+**App tip**
+
+* Strong portfolios with CAD files and manufacturing considerations are critical.
+
+---
+
+### 2. ROBOTICS/MECHATRONICS (ME-Focused)
+
+**7–9**
+
+* Mechanics: gear trains, linkages. Project: small mechanical arm.
+
+**10**
+
+* Sensors & actuators integration with controllers. Project: pick-and-place prototype using hobby servos & Arduino.
+
+**11**
+
+* Kinematics and dynamics, advanced control. Project: robotic arm with inverse kinematics solved numerically and a GUI control panel.
+
+**Competitions**
+
+* Robocon, VEX, FIRST.
+
+**App tip**
+
+* Show mechanical drawings, kinematic analysis, and control code.
+
+---
+
+### 3. AEROSPACE
+
+**7–9**
+
+* Lift/drag experiments, paper glider tests. Project: measure glide ratio for multiple designs.
+
+**10**
+
+* CFD basics (intro tools), airfoil design tools. Project: small UAV or RC plane build using off-the-shelf components.
+
+**11**
+
+* Flight testing, telemetry logging, autopilot basics. Project: document flights, telemetry analysis, and risk management.
+
+**Communities**
+
+* AIAA pre-college resources, local aerospace labs (NU).
+
+**App tip**
+
+* Safety documentation and iterative flight test logs are highly valuable.
+
+---
+
+### 4. THERMAL & FLUIDS
+
+**7–9**
+
+* Fluid experiments, pump & flow measurement. Project: build a water pump and measure flow vs head.
+
+**10**
+
+* Thermodynamics basics: heat engines, heat transfer experiments. Project: small Stirling engine model or heat exchanger test.
+
+**11**
+
+* CFD simulations for a simple design and physical prototype testing.
+
+**Competitions**
+
+* Engineering challenges and local science fairs.
+
+**App tip**
+
+* Practical lab notes and measurement precision help show rigor.
+
+---
+
+### 5. MATERIALS & ADDITIVE MANUFACTURING
+
+**7–9**
+
+* Basic materials testing: tensile/compression tests using simple rigs. Project: compare 3D printed PLA vs PETG strength.
+
+**10**
+
+* Composite layup basics; print process optimization studies. Project: develop printing profile optimizing strength vs print time.
+
+**11**
+
+* Microstructure imaging (if possible), materials characterization with mentors. Publish results in a local science fair or blog.
+
+**Communities**
+
+* Materials Today blog, ASM student resources.
+
+**App tip**
+
+* Materials research in high school is rare and impressive; emphasize measurement, repeatability, and controls.
+
+---
+
+## MAJOR 4 — DATA SCIENCE & AI (standalone)
+
+*(Detailed already via CS & Data Science above — additional specialized tracks below)*
+
+**Subspecializations:** Business Analytics, Biostatistics, Data Engineering, ML Research
+
+---
+
+### BUSINESS ANALYTICS
+
+**Grade 7**
+
+* Spreadsheets + financial literacy. Project: school club budget analysis.
+
+**Grade 8**
+
+* SQL basics, pivot tables, simple dashboard. Project: school event analytics dashboard.
+
+**Grade 9**
+
+* Regression basics and forecasting. Project: forecast ticket sales for a school event.
+
+**Grade 10**
+
+* Advanced dashboards, A/B testing basics. Project: run 2 small marketing experiments and measure results.
+
+**Grade 11**
+
+* Internship in local business/data team or capstone recommending data-informed decisions.
+
+**Competitions**
+
+* Datathon, analytics case challenges, DECA (business competitions).
+
+**Application tip**
+
+* Business schools want measurable impact (revenue, efficiency). Show metrics.
+
+---
+
+### BIOSTATISTICS
+
+**7–9**
+
+* Basic biology + statistics. Project: analyze sample health survey.
+
+**10–11**
+
+* Advanced stats, basic epidemiology modeling. Project: study an outbreak simulation and present policy suggestions.
+
+**Communities**
+
+* Biostats meetups (online), CDC student resources.
+
+**Application tip**
+
+* Show ethical handling of human data and proper anonymization.
+
+---
+
+### DATA ENGINEERING
+
+**7–9**
+
+* Databases basics, SQL, ETL conceptual understanding.
+
+**10–11**
+
+* Pipeline projects: scraper → ETL → store → dashboard. Deliver a documented pipeline with tests.
+
+**Resources**
+
+* Airflow tutorials, ETL best practices.
+
+**Application tip**
+
+* Emphasize reproducibility and testing.
+
+---
+
+### ML RESEARCH
+
+**9–11**
+
+* Read papers, reproduce simple experiments, join open research projects or summer research groups. Project: reproduce a paper’s results and write a report noting differences and improvements.
+
+**Resources**
+
+* ArXiv, PapersWithCode, reading groups.
+
+**Application tip**
+
+* Research exposure even at a small scale is highly valued for competitive CS programs.
+
+---
+
+## MAJOR 5 — BIOLOGY & LIFE SCIENCES
+
+**Subspecializations:** Molecular Biology, Genetics, Neuroscience, Ecology & Conservation, Biomedical Research
+
+---
+
+### 1. MOLECULAR BIOLOGY
+
+**Grade 7**
+
+* Basics: cell structure, safe microscopy, lab safety. Project: onion cell slides imaging.
+
+**Grade 8**
+
+* DNA basics: extraction from fruit (safe kits or supervised). Project: DNA extraction and write-up.
+
+**Grade 9**
+
+* PCR/gel electrophoresis introduction (school/partner lab). Project: perform and analyze a gel (if school lab available).
+
+**Grade 10**
+
+* Experimental design and statistics. Project: small genetics experiment (e.g., yeast growth under different sugars), analyze with statistics.
+
+**Grade 11**
+
+* Mentor-led research, aim to produce a reproducible study that can be presented in regional science fair or ISEF-style.
+
+**Competitions**
+
+* Biology Olympiad (national selection), ISEF (Regeneron) research track.
+
+**Kazakhstan**
+
+* University labs (NU, Satpayev), national olympiad pipeline (Zhautykov / IZHO).
+
+**App tip**
+
+* Research notebooks, supervisor letters, and rigorous method descriptions are critical.
+
+---
+
+### 2. GENETICS
+
+**7–9**
+
+* Mendelian genetics and simple crosses (virtual simulations). Project: analyze inherited traits in fictional datasets.
+
+**10–11**
+
+* Bioinformatics intro: BLAST, GenBank, sequence alignment basics. Project: analyze publicly available sequences and report phylogenetic trees.
+
+**Resources**
+
+* NCBI tutorials, Rosalind.info problems (bioinformatics practice).
+
+**App tip**
+
+* Bioinformatics projects combine coding and biology — very attractive to bio/CS crossover programs.
+
+---
+
+### 3. NEUROSCIENCE
+
+**7–9**
+
+* Brain anatomy basics, observe simple reflex experiments ethically. Project: reaction-time study in class.
+
+**10–11**
+
+* Cognitive tests, EEG basics (if accessible), neuroimaging introductory concepts. Project: small behavioral study and statistical analysis.
+
+**Competitions**
+
+* Neuroscience fairs, brain awareness week local events.
+
+**App tip**
+
+* Ethical review understanding and IRB-like consent process are important to document.
+
+---
+
+### 4. ECOLOGY & CONSERVATION
+
+**7–9**
+
+* Field observations, biodiversity counts (use iNaturalist). Project: local species checklist and basic population estimate.
+
+**10–11**
+
+* GIS basics, mapping habitats, population modeling. Project: a small conservation plan for a local park with measurable KPIs.
+
+**Kazakhstan**
+
+* Citizen science through iNaturalist Kazakhstan groups; local environmental NGOs.
+
+**App tip**
+
+* Demonstrable environmental impact and community involvement resonate with admissions.
+
+---
+
+### 5. BIOMEDICAL RESEARCH
+
+**9–11**
+
+* Combine bio & engineering: design low-cost medical devices or diagnostics (e.g., colorimetric test).
+* Project: prototyping a low-cost diagnostic strip and validating against control samples (with mentor oversight).
+
+**Resources**
+
+* Engineering World Health, MedTech articles.
+
+**Application tip**
+
+* Highlight cross-disciplinary skills and ethical/clinical validation processes.
+
+---
+
+## MAJOR 6 — CHEMISTRY & CHEMICAL ENGINEERING
+
+**Subspecializations:** Organic, Analytical, Materials, Process/Plant Engineering, Environmental Chemistry
+
+---
+
+### ORGANIC / INORGANIC CHEMISTRY
+
+**7–9**
+
+* Safety-first chemistry demonstrations, titration experiment basics. Project: acid-base titration lab with error analysis.
+
+**10–11**
+
+* Synthesis at school-level (safe reactions) with proper supervision; analytical measurements (spectrophotometry if available). Project: design a “green” synthesis and measure yield & waste.
+
+**Competitions**
+
+* Chemistry Olympiad pipeline (national -> international), ACS student activities.
+
+**Kazakhstan**
+
+* University chemistry departments (NU/Satpayev) often run outreach and labs.
+
+**App tip**
+
+* Lab notebooks, supervisor letters, and precise measurement reporting are essential.
+
+---
+
+### MATERIALS CHEMISTRY & PROCESS ENGINEERING
+
+**7–9**
+
+* Study material properties, simple experiments on hardness/flexibility. Project: compare properties of common polymers.
+
+**10–11**
+
+* Process modeling basics, reaction engineering concept projects. Project: small-scale continuous-flow reactor simulation and prototyping.
+
+**App tip**
+
+* Show understanding of scalability, safety, and environmental impact.
+
+---
+
+## MAJOR 7 — MATHEMATICS & APPLIED MATHEMATICS
+
+**Subspecializations:** Pure Math/Olympiad, Applied Math, Statistics & Probability, Mathematical Finance, Operations Research
+
+---
+
+### PURE MATH / OLYMPIAD TRACK
+
+**Grade 7**
+
+* Problem-solving practice (AMC8), logic and proof introduction. Project: start a problem-journal.
+
+**Grade 8**
+
+* AMC10/UKMT prep, AoPS classes, develop proof-writing habit. Host study groups.
+
+**Grade 9**
+
+* AMC12/AIME level practice, attend math camp if possible. Project: solve and publish a set of contest solutions with explanations.
+
+**Grade 10**
+
+* USAMO-style problems, start mentoring younger students. Project: write a short expository paper on a contest topic.
+
+**Grade 11**
+
+* National olympiad finals, international selection pipelines. Project: contribute to national training or produce teaching materials.
+
+**Resources**
+
+* AoPS, Brilliant.org, UKMT.
+
+**Kazakhstan**
+
+* Zhautykov Olympiad, national math olympiad organizations.
+
+**App tip**
+
+* Olympiad awards and strong recommendation from Olympiad coaches are highly influential.
+
+---
+
+### APPLIED MATH & STATISTICS
+
+**7–9**
+
+* Build calculus foundations, modeling real problems (population growth, simple epidemics).
+
+**10–11**
+
+* Learn differential equations basics, optimization; project: model a local phenomenon (traffic, spread of info) and propose interventions.
+
+**App tip**
+
+* Show model validation and data fitting.
+
+---
+
+### MATHEMATICAL FINANCE & OPERATIONS RESEARCH
+
+**9–11**
+
+* Study probability, expected value; finance basics (discounting). Project: model portfolio choices or simulate queuing systems for a local business (e.g., cafeteria).
+
+**Competitions**
+
+* Mathematical modeling contests (HiMCM), local finance olympiads.
+
+**App tip**
+
+* Combine math rigor with clear business implications.
+
+---
+
+## MAJOR 8 — MEDICINE & HEALTH SCIENCES (Pre-Med)
+
+**Subspecializations:** Pre-Medical Sciences, Neuroscience (medical track), Public Health, Clinical Research, Biomedical Engineering (overlap)
+
+---
+
+### PRE-MEDICAL SCIENCES
+
+**7–8**
+
+* Biology & chemistry fundamentals; start volunteering basics (age-appropriate). Project: health promotion campaign in school (hygiene or nutrition).
+
+**9**
+
+* Advanced biology & chemistry courses, first aid courses. Start structured volunteering (elder care, clinic admin tasks).
+
+**10**
+
+* Shadow doctors (if allowed), basic clinical observations, epidemiology basics, prepare simple posters on public health topics.
+
+**11**
+
+* Research in a medical lab or public health project; work toward clear narrative in applications—service + science. Project: small epidemiology study in the community.
+
+**Competitions/Programs**
+
+* Local medical summer schools (NU), university outreach, health competitions.
+
+**Kazakhstan**
+
+* University hospital volunteer programs; NU pre-med outreach.
+
+**App tip**
+
+* In med school applications, demonstration of service, ethics, research, and exposure to clinical environments matters. Quality > quantity.
+
+---
+
+### PUBLIC HEALTH
+
+**7–11**
+
+* Projects: community health campaigns, data-driven public health proposals; learn basic biostatistics.
+
+**Application tip**
+
+* Show measurable impact (reduced litter, improved vaccination awareness, measured attendance change), and collaboration with local NGOs.
+
+---
+
+## MAJOR 9 — BUSINESS, ECONOMICS & ENTREPRENEURSHIP
+
+**Subspecializations:** Finance, Accounting, Economics, Entrepreneurship, Product Management, Management Science
+
+---
+
+### ENTREPRENEURSHIP & STARTUPS
+
+**7**
+
+* Learn basic finance & selling basics. Project: lemonade stand or small online store (e.g., Etsy for crafts).
+
+**8**
+
+* Use spreadsheets for costing and pricing. Experiment with marketing (social media) and measure conversion.
+
+**9**
+
+* Build an MVP for a small product/service; run small ad campaigns and A/B test copy.
+
+**10**
+
+* Join Junior Achievement or DECA if available; build pitch decks and learn unit economics.
+
+**11**
+
+* Enter pitch competitions (local/online), try to get a local mentor. Project: scale your venture to measurable KPIs (revenue, customers) and document growth.
+
+**Competitions**
+
+* DECA, Junior Achievement, local startup weekends, Astana Hub pitch events.
+
+**Kazakhstan**
+
+* Astana Hub accelerators, NU entrepreneurship programs, Telegram: @startupkz communities.
+
+**App tip**
+
+* Admissions care about measurable impact: revenue, user growth, and leadership.
+
+---
+
+### FINANCE & ECONOMICS
+
+**7–9**
+
+* Personal finance basics and macro/ micro foundations. Project: simulate portfolio returns.
+
+**10–11**
+
+* Econ modeling, statistics, internships if possible (local bank internship). Project: policy analysis brief with data.
+
+**Competitions**
+
+* Economics olympiads, investment challenges.
+
+**App tip**
+
+* Demonstrate both conceptual understanding and practical analysis.
+
+---
+
+## MAJOR 10 — PSYCHOLOGY & COGNITIVE SCIENCE
+
+**Subspecializations:** Cognitive Science, Clinical Psychology prep, Developmental Psychology, Neuropsychology / Cognitive Neuroscience
+
+---
+
+### COGNITIVE SCIENCE
+
+**7–9**
+
+* Read popular science (Thinking Fast and Slow excerpts for older grades), do reaction-time and memory experiments. Project: memory experiment with a control group and simple stat analysis.
+
+**10–11**
+
+* Study experimental design, basic neuroscience, and cognitive modeling. Project: run a small study on attention with ethical consent and simple stats.
+
+**Resources**
+
+* CogSci blogs, PLOS One education for reproducible experiments.
+
+**App tip**
+
+* Emphasize ethical procedures and statistical rigor.
+
+---
+
+### CLINICAL PSYCHOLOGY (PREP)
+
+**7–9**
+
+* Volunteer in counselling helplines or community centers under supervision, study psychology basics.
+
+**10–11**
+
+* Combine volunteering with basic coursework in abnormal psychology and evidence-based practice readings.
+
+**App tip**
+
+* Show empathy, long-term service, and ethical reflection in essays.
+
+---
+
+## MAJOR 11 — ARCHITECTURE & DESIGN
+
+**Subspecializations:** Architectural Design, Urban Planning, Landscape Architecture, Sustainable Design, Digital Fabrication
+
+---
+
+### ARCHITECTURAL DESIGN
+
+**7**
+
+* Sketching, perspective drawing basics. Project: draw 10 street scenes.
+
+**8**
+
+* CAD basics (SketchUp), build small models (foamboard). Project: design and make a small pavilion model.
+
+**9**
+
+* Study architectural history, materials, and scale. Build a portfolio with iterative design sketches & final model.
+
+**10**
+
+* Learn Rhino/Grasshopper basics for parametric design. Project: parametric façade design with mockup.
+
+**11**
+
+* Create a portfolio of 8–12 projects showing concept, process, drawings, and models. Apply to pre-college architecture programs.
+
+**Competitions**
+
+* Local architecture student competitions, Behance exhibitions.
+
+**Kazakhstan**
+
+* University architecture departments (NU, KazNU) pre-college workshops, local architecture firms offering mentorship.
+
+**App tip**
+
+* Admissions expect portfolios: show process (sketches, studies) and final pieces.
+
+---
+
+### URBAN PLANNING & SUSTAINABLE DESIGN
+
+**7–9**
+
+* Neighborhood studies: map green spaces and propose small improvements. Project: community park redesign proposal including sketches and basic cost estimate.
+
+**10–11**
+
+* GIS basics, sustainability metrics, and participatory design steps; project: complete urban micro-plan and outreach program.
+
+**App tip**
+
+* Emphasize community engagement and measurable outcomes.
+
+---
+
+## MAJOR 12 — ENVIRONMENTAL SCIENCE & EARTH SCIENCES
+
+**Subspecializations:** Climate Science, Ecology & Conservation, Geoscience, Environmental Engineering, Sustainability Policy
+
+---
+
+### CLIMATE SCIENCE
+
+**7–9**
+
+* Learn basics: greenhouse effect, climate data visualization using publicly available datasets. Project: graph local temperature trends and write a one-page analysis.
+
+**10–11**
+
+* Learn climate modeling basics, mitigation strategies, and energy systems. Project: design a small policy brief for local municipality with data support.
+
+**Competitions**
+
+* Climate action challenges, school sustainability awards.
+
+**Kazakhstan**
+
+* Environmental NGOs, local citizen science groups.
+
+**App tip**
+
+* Policy relevance + data analysis = strong application material.
+
+---
+
+### ECOLOGY & CONSERVATION (detailed action list)
+
+**Grade 7**
+
+* Observe and log species around your school for 8 weeks. Use iNaturalist; produce a species list PDF + photos.
+
+**Grade 8**
+
+* Learn sampling techniques: transects, quadrats. Project: estimate population density of a plant species in 3 spots; include error bars and a write-up.
+
+**Grade 9**
+
+* GIS basics: QGIS install, map layers, create habitat maps. Project: map a local green area and propose 3 interventions to improve biodiversity; estimate costs.
+
+**Grade 10**
+
+* Study population models (Logistic, Exponential). Project: build a spreadsheet model of population change for a local species under different intervention scenarios.
+
+**Grade 11**
+
+* Capstone: coordinate a small community conservation action (cleanup + planting + monitoring). Measure biodiversity before & after at 0/6/12 months and present results to local authorities or a school board.
+
+**Global resources**
+
+* iNaturalist, GBIF, citizen science platforms, Conservation Biology blogs.
+
+**Kazakhstan**
+
+* Local environmental NGOs, national parks and university ecology departments, Telegram: local environmental groups.
+
+**Application tip**
+
+* Show longitudinal data (repeated measures), community engagement, and policy outreach.
+
+---
+
+# CROSS-MAJOR GLOBAL & KAZAKHSTAN RESOURCES (concentrated list)
+
+**Global multi-field courses & platforms**
+
+* Khan Academy (math & science), Coursera (many specializations), edX, MIT OpenCourseWare, CS50, fast.ai.
+
+**STEM competitions (global & routes)**
+
+* Programming: USACO, IOI pipeline; Codeforces, AtCoder competitions.
+* Robotics: FIRST (FLL/FTC/FRC), VEX, Robocup.
+* Science research: ISEF / Regeneron, Intel competitions.
+* Math: AMC → AIME → USAMO / IMO pipeline (or local equivalents).
+* Data: Kaggle competitions, Datathons (Astana Hub).
+* Business: DECA, Junior Achievement.
+
+**Kazakhstan hubs & programs (high-value)**
+
+* Astana Hub — hackathons, datathons, startup events; network with startups for internships.
+* Nazarbayev University — summer schools, research labs across STEM & social sciences.
+* KBTU and Al-Farabi KazNU — engineering labs and competitions.
+* FIRST Kazakhstan, VEX Kazakhstan, Robocon KZ events.
+* Zhautykov / IZHO — regional olympiad pipeline for math, physics, informatics.
+
+**Kazakhstan Telegram channels (search tips)**
+
+* Search for local handles like `@datasciencekz`, `@roboticskz`, `@electronics_kz`, `@ux_kz`, `@cybersecuritykz`. They are often community-run; join and request localized events and mentorship.
+
+**Blogs & YouTube (high-yield)**
+
+* CS/ML: Towards Data Science, PapersWithCode, 3Blue1Brown, Sentdex, Andrew Ng.
+* Engineering/Electronics: EEVblog, Adafruit Learning, Hackaday.
+* Design/UX: Nielsen Norman Group, UX Collective.
+* Science & Research: Nature Outreach, Scientific American, Distill (ML explainers).
+* Math: AoPS, Numberphile, 3Blue1Brown.
+
+---
+
+# TEMPLATED TIMELINES & STUDY SCHEDULE (How to manage one major / subspecialty per year)
+
+**If focusing on 1 subspecialty per school year (recommended approach):**
+
+* **Months 1–2 (Foundations):** Intensive reading / course (Khan/Coursera), fundamentals of math/CS/physics as needed. 6–10 hours/week.
+* **Months 3–5 (Skills & Small Projects):** Build 2–3 small projects (1–2 weeks each) to apply skills. 8–12 hours/week.
+* **Months 6–8 (Advanced Skills & Competition Prep):** Start preparing for competitions/hackathons or application-relevant projects. 10–15 hours/week.
+* **Months 9–10 (Capstone build):** Build the main capstone project and polish deliverables: repo, readme, blog, video demo. 10–20 hours/week.
+* **Months 11–12 (Polish & Outreach):** Submit to competitions, share on social, find mentors, write summary for applications. 6–10 hours/week.
+
+---
+
+# HOW TO SHOW THIS ON APPLICATIONS (general rules)
+
+1. **One polished capstone** per specialization (repo + live demo + 5–8 minute video) > many tiny unfinished projects.
+2. **Documentation**: lab notebook, README, short blog (non-technical summary), and a technical appendix.
+3. **Metrics & Impact**: show numbers (accuracy, revenue, energy saved, species count changed). Admissions love measurable outcomes.
+4. **Letters**: get a teacher/mentor who supervised the project to write targeted recommendation citing independence & methodology.
+5. **Competitions / Medals**: note regionally relevant competitions and national olympiad routes — they carry weight.
+6. **Safety & Ethics**: for bio/medical/cybersecurity, show you followed ethical guidelines and had supervision.
+
+---
+
+# NEXT STEPS I CAN DO FOR YOU (pick any)
+
+* Convert this entire mega-roadmap into a **single .txt file** for download.
+* Create **detailed weekly 12-month plans** for 2 subspecialties you pick (daily/weekly tasks, resources, milestones).
+* Generate **portfolio templates** (README, project page, video script) for capstones.
+* Find **exact Kazakhstan Telegram groups / contact pages** for local labs and hubs (I can search and list exact links if you want).
+* Build a **spreadsheet** (CSV) with columns: Major / Subspecialization / Grade7 tasks / Grade8 / Grade9 / Grade10 / Grade11 / Project templates / Communities / Competitions / Local KZ resources.
+
+Tell me which of the “Next steps” you want or which exact subspecialties you want me to expand into weekly plans and I’ll do it next — fast.
